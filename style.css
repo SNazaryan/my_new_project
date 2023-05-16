@@ -1,0 +1,110 @@
+.header{
+    position:float;
+    background-color: rgb(1, 140, 140);
+    width:auto;
+    height:100px;   
+}
+h1{
+    color:white;
+}
+
+span{
+    color:rgb(162, 162, 162);
+}
+.site_title{
+    position:absolute;
+    left:30px;
+    font-size:30px;
+    top:-30px;
+}
+.slogan{
+    position:absolute;
+    top:55px;
+    left:40px;
+    color:white;
+}
+.menu{
+    position:absolute;
+    background-color:rgb(144, 144, 144);
+    width:1454px;
+    margin-top:5px;
+    
+}
+.menu_home{
+   position:float;
+   float:left;
+   margin:15px;
+    color:white;
+}
+.menu_archives{
+    position:float;
+    float:left;
+    margin:15px;
+    color:white;
+}
+.menu_downloads{
+    position:float;
+    float:left;
+    margin:15px;
+    color:white;
+}
+.menu_services{
+    position:float;
+    float:left;
+    margin:15px;
+    color:white;
+}
+.menu_support{
+    position:float;
+    float:left;
+    margin:15px;
+    color:white;
+}
+.menu_about{
+    position:float;
+    float:left;
+    margin:15px;
+    color:white;
+}
+
+.info{
+    position:absolute;
+    width:1000px;
+    height:750px;
+    margin-top:80px;
+}
+.template_info{
+    position:float;
+    background-color: rgb(241, 241, 241);
+    margin-top:-10px;
+    height:25px;
+    color:rgb(55, 55, 196);
+}
+.info_text{
+    position:float;
+    background-color:white;
+    color:black;
+}
+.sample_tags{
+    color:rgb(55, 55, 196);
+    position:float;
+    background-color: rgb(241, 241, 241);
+    margin-top:160px;
+    height:25px;
+}
+.partners_info{
+    position:float;
+    width:454px;
+    height:725px;
+    float:right;
+    margin-top:75px;
+
+}
+.name{
+    background-color:rgb(241, 241, 241);
+    height:30px;
+    
+}
+li{
+    color:rgb(55, 55, 196);
+}
